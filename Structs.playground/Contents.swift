@@ -108,3 +108,6 @@ var myMug1 = Mug()
 print(myMug1.amountOfCoffee)
 myMug1.fillMug()
 print(myMug1.amountOfCoffee)
+
+
+// Awesome
